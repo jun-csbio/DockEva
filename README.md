@@ -1,7 +1,7 @@
 # DockEva
-DockEva: a fast open-source tool for atom mapping and docking evaluation of symmetric molecules
+DockEva: a fast open-source tool for atom mapping and docking evaluation of symmetric small molecules
 
-There are lots of highly symmetric molecules. Correctly evaluateing the ligand docking . 
+Correctly comparing two poses of symmetric small molecule ligands in fast is of significance important for the development of the fields of receptor-ligand docking and complex structure prediction. DockEva can xxx. In average, its speed is xxxx.
 
 ## Pre-requisite:
     - g++
