@@ -18,7 +18,7 @@ Identifying the ATP-binding sites of proteins is fundamentally important to unco
 
 ## Run example
 ~~~
-  $ ./dockeva example/decoy1.mol2 decoy2.mol2
+  $ ./dockeva example/native.mol2 decoy.mol2
 ~~~
 
 ## Release History:
