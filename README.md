@@ -8,7 +8,7 @@ Identifying the ATP-binding sites of proteins is fundamentally important to unco
 
 ## Installation:
 
-* Download this repository at https://github.com/jun-csbio/dockeva.git. Then, uncompress it and run the following command lines on Linux System.
+* Download this repository at https://github.com/jun-csbio/DockEva.git. Then, uncompress it and run the following command lines on Linux System.
 
 ~~~
   $ cd dockeva-main
