@@ -15,7 +15,14 @@ Correctly comparing two poses of symmetric small molecule ligands in fast is of 
   $ chmod 755 ./install.sh
   $ ./install.sh
 ~~~
+### On Python environment:
+* Download this repository at https://github.com/jun-csbio/DockEva.git. Then, uncompress it and run the following command lines on Linux System.
 
+~~~
+  $ cd DockEva-main
+  $ python setup.py build_ext --inplace  
+  $ pip install .
+~~~
 ## Run example
 ~~~
   $ ./dockeva example/crystal.mol2 decoy.mol2
