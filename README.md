@@ -7,7 +7,7 @@ Correctly comparing two poses of symmetric small molecule ligands in fast is of 
     - g++
 
 ## Installation:
-
+### On Linux system:
 * Download this repository at https://github.com/jun-csbio/DockEva.git. Then, uncompress it and run the following command lines on Linux System.
 
 ~~~
