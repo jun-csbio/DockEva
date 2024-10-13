@@ -30,7 +30,7 @@ Correctly comparing two poses of small molecule ligands with symmetry in fast is
 
 ## Release History:
 
-- First release          2023-07-12
+- First release          2024-10-14
 
 ## Tips
 
